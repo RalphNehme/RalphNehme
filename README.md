@@ -26,7 +26,7 @@
 ### 📫 Connect with Me
 
 - 📧 ralphnehme00@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ralphnehme)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ralphnehme00)  
 
 ---
 
