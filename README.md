@@ -2,7 +2,7 @@
 
 **Database Developer building AI-assisted data workflows** · M.S. Computer Science @ UT Austin (4.0 GPA)
 
-I design databases, automate data pipelines, and build tools that put AI to work in real business workflows. I'm especially interested in how reliable language models are, and whether they know when they don't know.
+I design databases, automate data pipelines, and build tools that put AI to work in real business workflows.
 
 ---
 
