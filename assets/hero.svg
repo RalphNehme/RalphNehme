@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Ralph Nehme: I build AI-powered tools that make real work faster.">
+  <defs>
+    <linearGradient id="name" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.55" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.55"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.40"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="screenGlow"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="460" rx="20"/></clipPath>
+    <clipPath id="screen"><rect x="832" y="132" width="256" height="156" rx="4"/></clipPath>
+    <clipPath id="t1"><rect x="80" y="268" height="24" width="0"><animate attributeName="width" from="0" to="200" begin="0.6s" dur="0.7s" fill="freeze" calcMode="discrete" values="0;30;50;70;90;110;130;200" keyTimes="0;0.14;0.28;0.42;0.56;0.7;0.84;1"/></rect></clipPath>
+    <clipPath id="t3"><rect x="80" y="323" height="24" width="0"><animate attributeName="width" begin="2.1s" dur="0.9s" fill="freeze" calcMode="discrete" values="0;30;50;70;90;110;130;150;250" keyTimes="0;0.12;0.25;0.37;0.5;0.62;0.75;0.87;1"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="460" fill="#0b0f19"/>
+    <rect width="1200" height="460" fill="url(#grid)"/>
+    <circle cx="180" cy="60" r="320" fill="url(#glowA)">
+      <animate attributeName="cx" values="180;260;180" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="430" r="300" fill="url(#glowB)">
+      <animate attributeName="cy" values="430;380;430" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- intro text -->
+    <text x="62" y="92" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="5" fill="#22d3ee">HI, I'M</text>
+    <text x="58" y="160" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="url(#name)">Ralph Nehme</text>
+    <text x="62" y="200" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" fill="#cbd5e1">I build AI-powered tools that make real work faster.</text>
+
+    <!-- terminal -->
+    <g font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="14">
+      <rect x="60" y="228" width="650" height="196" rx="12" fill="#0f172a" fill-opacity="0.92" stroke="#1e293b" stroke-width="1.5"/>
+      <circle cx="82" cy="248" r="5.5" fill="#f87171"/>
+      <circle cx="100" cy="248" r="5.5" fill="#fbbf24"/>
+      <circle cx="118" cy="248" r="5.5" fill="#34d399"/>
+      <text x="385" y="252" text-anchor="middle" fill="#475569" font-size="12">ralph@home: ~</text>
+
+      <text x="80" y="285" clip-path="url(#t1)"><tspan fill="#34d399">$</tspan><tspan fill="#e2e8f0"> whoami</tspan></text>
+      <g opacity="0">
+        <set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/>
+        <text x="80" y="308" fill="#94a3b8">developer <tspan fill="#a855f7">@ KCIC</tspan> · M.S. CS <tspan fill="#a855f7">@ UT Austin</tspan> · B.S. CompE <tspan fill="#a855f7">@ Virginia Tech</tspan></text>
+      </g>
+
+      <text x="80" y="340" clip-path="url(#t3)"><tspan fill="#34d399">$</tspan><tspan fill="#e2e8f0"> cat now.txt</tspan></text>
+      <g opacity="0">
+        <set attributeName="opacity" to="1" begin="3.2s" fill="freeze"/>
+        <text x="80" y="363" fill="#94a3b8">researching <tspan fill="#f472b6">"does the AI know when it doesn't know?"</tspan></text>
+      </g>
+
+      <g opacity="0">
+        <set attributeName="opacity" to="1" begin="3.8s" fill="freeze"/>
+        <text x="80" y="398"><tspan fill="#34d399">$</tspan></text>
+        <rect x="96" y="386" width="9" height="16" fill="#22d3ee">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- desk scene -->
+    <circle cx="960" cy="230" r="200" fill="url(#screenGlow)"/>
+    <circle cx="960" cy="230" r="188" fill="none" stroke="#22d3ee" stroke-opacity="0.28" stroke-width="1.5" stroke-dasharray="3 14">
+      <animateTransform attributeName="transform" type="rotate" from="0 960 230" to="360 960 230" dur="40s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="960" cy="230" r="160" fill="none" stroke="#a855f7" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="40 30">
+      <animateTransform attributeName="transform" type="rotate" from="360 960 230" to="0 960 230" dur="28s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating symbols -->
+    <g font-family="'Cascadia Code', Consolas, Menlo, monospace" font-weight="700">
+      <text x="790" y="120" font-size="18" fill="#22d3ee" opacity="0">{ }
+        <animate attributeName="opacity" values="0;0.9;0" dur="5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 20;0 -20" dur="5s" repeatCount="indefinite"/>
+      </text>
+      <text x="1110" y="150" font-size="16" fill="#f472b6" opacity="0">&lt;/&gt;
+        <animate attributeName="opacity" values="0;0.9;0" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 20;0 -20" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+      </text>
+      <text x="1120" y="270" font-size="14" fill="#a855f7" opacity="0">01
+        <animate attributeName="opacity" values="0;0.9;0" dur="4.5s" begin="3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 20;0 -20" dur="4.5s" begin="3s" repeatCount="indefinite"/>
+      </text>
+      <text x="780" y="230" font-size="18" fill="#fbbf24" opacity="0">✦
+        <animate attributeName="opacity" values="0;1;0" dur="3.5s" begin="0.8s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- plant -->
+    <g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-3 798 300;3 798 300;-3 798 300" dur="4s" repeatCount="indefinite"/>
+        <ellipse cx="788" cy="282" rx="7" ry="18" fill="#34d399" transform="rotate(-25 788 282)"/>
+        <ellipse cx="808" cy="280" rx="7" ry="18" fill="#10b981" transform="rotate(25 808 280)"/>
+        <ellipse cx="798" cy="272" rx="7" ry="20" fill="#6ee7b7"/>
+      </g>
+      <path d="M784 298h28l-4 32h-20z" fill="#334155"/>
+    </g>
+
+    <!-- monitor -->
+    <rect x="820" y="120" width="280" height="180" rx="12" fill="#0f172a" stroke="#334155" stroke-width="3"/>
+    <rect x="832" y="132" width="256" height="156" rx="4" fill="#020617"/>
+    <g clip-path="url(#screen)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -168" dur="7s" repeatCount="indefinite"/>
+        <g id="code">
+          <rect x="844" y="144" width="40" height="6" rx="3" fill="#a855f7"/><rect x="890" y="144" width="70" height="6" rx="3" fill="#e2e8f0" fill-opacity="0.7"/>
+          <rect x="858" y="158" width="56" height="6" rx="3" fill="#22d3ee"/><rect x="920" y="158" width="90" height="6" rx="3" fill="#475569"/>
+          <rect x="858" y="172" width="30" height="6" rx="3" fill="#f472b6"/><rect x="894" y="172" width="120" height="6" rx="3" fill="#e2e8f0" fill-opacity="0.5"/>
+          <rect x="872" y="186" width="80" height="6" rx="3" fill="#34d399"/>
+          <rect x="872" y="200" width="44" height="6" rx="3" fill="#22d3ee"/><rect x="922" y="200" width="60" height="6" rx="3" fill="#fbbf24"/>
+          <rect x="858" y="214" width="24" height="6" rx="3" fill="#a855f7"/>
+          <rect x="844" y="228" width="10" height="6" rx="3" fill="#e2e8f0" fill-opacity="0.6"/>
+          <rect x="844" y="242" width="40" height="6" rx="3" fill="#a855f7"/><rect x="890" y="242" width="96" height="6" rx="3" fill="#e2e8f0" fill-opacity="0.7"/>
+          <rect x="858" y="256" width="64" height="6" rx="3" fill="#f472b6"/><rect x="928" y="256" width="50" height="6" rx="3" fill="#475569"/>
+          <rect x="858" y="270" width="110" height="6" rx="3" fill="#22d3ee"/>
+          <rect x="872" y="284" width="36" height="6" rx="3" fill="#34d399"/><rect x="914" y="284" width="70" height="6" rx="3" fill="#e2e8f0" fill-opacity="0.5"/>
+          <rect x="844" y="298" width="10" height="6" rx="3" fill="#e2e8f0" fill-opacity="0.6"/>
+        </g>
+        <use href="#code" y="168"/>
+      </g>
+    </g>
+    <rect x="950" y="300" width="20" height="24" fill="#334155"/>
+    <rect x="912" y="320" width="96" height="9" rx="4.5" fill="#475569"/>
+
+    <!-- mug -->
+    <g>
+      <path d="M1074 290q6 -10 0 -20q-6 -10 0 -20" fill="none" stroke="#e2e8f0" stroke-width="2.5" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.6;0" dur="3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 6;0 -8" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1088 290q6 -10 0 -20q-6 -10 0 -20" fill="none" stroke="#e2e8f0" stroke-width="2.5" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0.6;0" dur="3s" begin="1.4s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 6;0 -8" dur="3s" begin="1.4s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="1100" cy="314" r="9" fill="none" stroke="#f472b6" stroke-width="4"/>
+      <rect x="1066" y="298" width="32" height="32" rx="5" fill="#f472b6"/>
+    </g>
+
+    <!-- desk -->
+    <rect x="740" y="328" width="420" height="12" rx="6" fill="#1e293b"/>
+
+    <!-- coder, seen from behind -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 2.5;0 0" dur="0.9s" repeatCount="indefinite"/>
+      <path d="M876 460c0 -70 28 -104 84 -104s84 34 84 104z" fill="#6d28d9"/>
+      <path d="M914 372c10 18 82 18 92 0" fill="none" stroke="#4c1d95" stroke-width="5" stroke-linecap="round"/>
+      <path d="M948 378v34M972 378v28" stroke="#c4b5fd" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="960" cy="318" r="32" fill="#1c1917"/>
+      <path d="M930 304c6 -20 22 -28 38 -26c14 2 24 10 26 22c-14 -8 -40 -12 -64 4z" fill="#292524"/>
+      <path d="M926 320a34 34 0 0 1 68 0" fill="none" stroke="#22d3ee" stroke-width="6" stroke-linecap="round"/>
+      <rect x="918" y="312" width="14" height="24" rx="6" fill="#22d3ee"/>
+      <rect x="988" y="312" width="14" height="24" rx="6" fill="#22d3ee"/>
+    </g>
+  </g>
+</svg>

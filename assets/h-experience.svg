@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="experience">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>
+  <rect x="2" y="6" width="211" height="48" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+  <text x="22" y="38" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="22" font-weight="700"><tspan fill="#a855f7">//</tspan><tspan fill="#22d3ee"> experience</tspan></text>
+  <rect x="227" y="29" width="969" height="2" fill="url(#l)"/>
+</svg>
