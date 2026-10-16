@@ -21,7 +21,7 @@
 <img src="assets/h-experience.svg" width="100%" alt="Experience" />
 
 <p align="center">
-  <img src="assets/timeline.svg" width="100%" alt="Micron Technology, Data Analyst Intern, 2023: SAP data analysis automation and material tracking. Collins Aerospace (RTX), Software Engineer Intern, 2024: data-transfer automation, 80% faster processing. KCIC, Database Developer, 2025 to now: AI-assisted workflow automation and client-facing AI demos." />
+  <img src="assets/timeline.svg" width="100%" alt="Micron Technology, Data Analyst Intern, 2023: SAP automation, data analysis, material tracking. Collins Aerospace (RTX), Software Engineer Intern, 2024: data-transfer automation, 80% faster processing, C# dashboards, API testing. KCIC, Database Developer, 2025 to now: AI workflow automation, data pipelines, SQL tuning, Power BI dashboards." />
 </p>
 
 <img src="assets/h-activity.svg" width="100%" alt="Activity" />

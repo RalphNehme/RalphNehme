@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Experience: Micron Technology, Data Analyst Intern, 2023. Collins Aerospace, Software Engineer Intern, 2024, data-transfer automation with 80% faster processing. KCIC, Database Developer, 2025 to now, AI-assisted workflow automation.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Experience: Micron Technology, Data Analyst Intern, 2023: SAP automation, data analysis, material tracking. Collins Aerospace (RTX), Software Engineer Intern, 2024: data-transfer automation, 80% faster processing, C# dashboards, API testing. KCIC, Database Developer, 2025 to now: AI workflow automation, data pipelines, SQL tuning, Power BI dashboards.">
   <defs>
     <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
     <radialGradient id="dot"><stop offset="0" stop-color="#fff"/><stop offset="0.4" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="1" y="1" width="1198" height="258" rx="18" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
   <rect x="90" y="88.5" width="1020" height="3" rx="1.5" fill="url(#line)" opacity="0.8"/>
   <circle cx="90" cy="90" r="9" fill="url(#dot)">
     <animate attributeName="cx" values="90;1110" dur="5s" repeatCount="indefinite"/>
@@ -16,8 +16,8 @@
   <circle cx="200" cy="90" r="4.5" fill="#22d3ee"/>
   <text x="200" y="140" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f8fafc">Micron Technology</text>
   <text x="200" y="166" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#22d3ee">Data Analyst Intern</text>
-  <text x="200" y="198" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8" font-weight="400">SAP data analysis automation</text>
-  <text x="200" y="220" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8" font-weight="400">and material tracking</text>
+  <rect x="64" y="186" width="136" height="26" rx="13" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.5"/><text x="132" y="204" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">SAP automation</text><rect x="208" y="186" width="128" height="26" rx="13" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.5"/><text x="272" y="204" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">data analysis</text>
+  <rect x="120" y="220" width="160" height="26" rx="13" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.5"/><text x="200" y="238" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">material tracking</text>
 
   <text x="600" y="56" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#a855f7">2024</text>
   
@@ -25,8 +25,9 @@
   <circle cx="600" cy="90" r="4.5" fill="#a855f7"/>
   <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f8fafc">Collins Aerospace (RTX)</text>
   <text x="600" y="166" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#a855f7">Software Engineer Intern</text>
-  <text x="600" y="198" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8" font-weight="400">Data-transfer automation:</text>
-  <text x="600" y="220" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#f8fafc" font-weight="700">80% faster processing</text>
+  <rect x="492" y="186" width="216" height="26" rx="13" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="600" y="204" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">data-transfer automation</text>
+  <rect x="504" y="220" width="192" height="26" rx="13" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="600" y="238" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">80% faster processing</text>
+  <rect x="476" y="254" width="128" height="26" rx="13" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="540" y="272" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">C# dashboards</text><rect x="612" y="254" width="112" height="26" rx="13" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="668" y="272" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">API testing</text>
 
   <text x="1000" y="56" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#f472b6">2025 – now</text>
   <circle cx="1000" cy="90" r="11" fill="none" stroke="#f472b6" stroke-width="2"><animate attributeName="r" values="11;24" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>
@@ -34,6 +35,7 @@
   <circle cx="1000" cy="90" r="4.5" fill="#f472b6"/>
   <text x="1000" y="140" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f8fafc">KCIC</text>
   <text x="1000" y="166" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f472b6">Database Developer</text>
-  <text x="1000" y="198" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8" font-weight="400">AI-assisted workflow automation</text>
-  <text x="1000" y="220" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8" font-weight="400">and client-facing AI demos</text>
+  <rect x="900" y="186" width="200" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.5"/><text x="1000" y="204" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">AI workflow automation</text>
+  <rect x="876" y="220" width="136" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.5"/><text x="944" y="238" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">data pipelines</text><rect x="1020" y="220" width="104" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.5"/><text x="1072" y="238" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">SQL tuning</text>
+  <rect x="912" y="254" width="176" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.5"/><text x="1000" y="272" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#e2e8f0">Power BI dashboards</text>
 </svg>
