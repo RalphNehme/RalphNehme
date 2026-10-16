@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ralph%20Nehme&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Database%20Developer%20%C2%B7%20UT%20Austin%20MSCS&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ralph%20Nehme&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Database%20Developer%20%C2%B7%20UT%20Austin%20MSCS&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://github.com/RalphNehme">
@@ -25,7 +25,7 @@ ralph = {
         "M.S. Computer Science, UT Austin (expected May 2027)",
         "B.S. Computer Engineering, Virginia Tech",
     ],
-    "focus":     ["SQL performance", "data pipelines", "AI workflow automation"],
+    "focus":     ["SQL", "data pipelines", "AI automation"],
 }
 ```
 
@@ -40,6 +40,7 @@ ralph = {
   <tr>
     <td width="33%" valign="top">
       <h4>🧪 Does the AI Know When It Doesn't Know?</h4>
+      <p><i>Master's, 1st year</i></p>
       LLM uncertainty and hallucination research. Compares how confident a model is against whether it's actually right.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -48,6 +49,7 @@ ralph = {
     </td>
     <td width="33%" valign="top">
       <h4>📧 <a href="https://github.com/RalphNehme/Machine-Learning-for-Email-Spam-Detection">Email Spam Detection</a></h4>
+      <p><i>Undergrad, senior year</i></p>
       Spam classifier built with text preprocessing and feature engineering.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -55,6 +57,7 @@ ralph = {
     </td>
     <td width="33%" valign="top">
       <h4>🎮 <a href="https://github.com/RalphNehme/TicTacToe-with-AI">TicTacToe with AI</a></h4>
+      <p><i>Undergrad, junior year</i></p>
       An opponent you can't beat, using the minimax algorithm.
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
