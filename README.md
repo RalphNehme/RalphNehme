@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/RalphNehme">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9BC8&center=true&vCenter=true&width=620&lines=I+design+databases+and+data+pipelines;I+build+AI-assisted+business+workflows;M.S.+Computer+Science+%40+UT+Austin+(4.0+GPA);Currently%3A+studying+LLM+hallucination" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9BC8&center=true&vCenter=true&width=620&lines=I+design+databases+and+data+pipelines;I+build+AI-assisted+business+workflows;M.S.+Computer+Science+%40+UT+Austin+(4.0+GPA);B.S.+Computer+Engineering+%40+Virginia+Tech;Currently%3A+studying+LLM+hallucination" alt="Typing intro" />
   </a>
 </p>
 
@@ -21,16 +21,17 @@ I design databases, automate data pipelines, and build tools that put AI to work
 ```python
 ralph = {
     "role":      "Database Developer @ KCIC",
-    "education": "M.S. Computer Science, UT Austin (expected May 2027)",
+    "education": [
+        "M.S. Computer Science, UT Austin (expected May 2027)",
+        "B.S. Computer Engineering, Virginia Tech",
+    ],
     "focus":     ["SQL performance", "data pipelines", "AI workflow automation"],
-    "learning":  "Stanford Algorithms Specialization",
 }
 ```
 
 ### What I'm working on
 
 - 🧪 **Does the AI Know When It Doesn't Know?** Studying whether LLMs can recognize the limits of their knowledge instead of hallucinating, and comparing model confidence against actual correctness *(in progress)*
-- 📚 Stanford **Algorithms Specialization** *(in progress)*
 - 🎓 M.S. in Computer Science at **The University of Texas at Austin** (expected May 2027)
 
 ### Featured projects
