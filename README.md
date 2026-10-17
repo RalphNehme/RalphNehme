@@ -27,7 +27,7 @@
 <img src="assets/h-activity.svg" width="100%" alt="Activity" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RalphNehme/RalphNehme/output/snake.svg" width="100%" alt="Contribution graph being eaten by a snake" />
+  <img src="https://raw.githubusercontent.com/RalphNehme/RalphNehme/output/pacman.svg" width="100%" alt="Pac-Man eating my GitHub contribution graph" />
 </p>
 
 <p align="center">
