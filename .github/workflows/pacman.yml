@@ -36,7 +36,7 @@ jobs:
       - name: Build SVG
         run: |
           mkdir -p dist
-          node scripts/pacman.js contrib.json dist/pacman.svg
+          node scripts/pacman.js contrib.json dist
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250" role="img" aria-label="Does the AI Know When It Doesn't Know?: Testing whether LLMs can spot the limits of their knowledge, and how confidence compares with actual correctness.">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#db2777"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#db2777" stop-opacity="0.1"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect x="1" y="1" width="398" height="248" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="250" fill="#ffffff"/>
+    <rect width="400" height="250" fill="url(#g)"/>
+    <rect width="400" height="5" fill="url(#bar)"/>
+  </g>
+  <rect x="1" y="1" width="398" height="248" rx="16" fill="none" stroke="#d0d7de" stroke-width="2"/>
+  <text x="26" y="46" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" letter-spacing="2" fill="#db2777">MASTER'S · YEAR 1</text>
+  <circle cx="364" cy="41" r="5" fill="#059669"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="364" cy="41" r="5" fill="none" stroke="#059669" stroke-width="2"><animate attributeName="r" values="5;13" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.6s" repeatCount="indefinite"/></circle><text x="350" y="46" text-anchor="end" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" fill="#059669">in progress</text>
+  <text x="26" y="80" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">Does the AI Know When</text>
+  <text x="26" y="107" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">It Doesn't Know?</text>
+  <text x="26" y="139" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">Testing whether LLMs can spot the limits</text>
+  <text x="26" y="160" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">of their knowledge, and how confidence</text>
+  <text x="26" y="181" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">compares with actual correctness.</text>
+  <rect x="26" y="200" width="71.19999999999999" height="26" rx="13" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-opacity="0.45"/><text x="61.599999999999994" y="218" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12.5" fill="#1e293b">Python</text>
+  <rect x="105.19999999999999" y="200" width="87.6" height="26" rx="13" fill="#db2777" fill-opacity="0.12" stroke="#db2777" stroke-opacity="0.45"/><text x="149" y="218" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12.5" fill="#1e293b">LLM APIs</text>
+</svg>

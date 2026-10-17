@@ -12,7 +12,7 @@
   
   <text x="200" y="56" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#22d3ee">2023</text>
   
-  <circle cx="200" cy="90" r="11" fill="#0b0f19" stroke="#22d3ee" stroke-width="3"/>
+  <circle cx="200" cy="90" r="11" fill="#0f172a" stroke="#22d3ee" stroke-width="3"/>
   <circle cx="200" cy="90" r="4.5" fill="#22d3ee"/>
   <text x="200" y="140" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f8fafc">Micron Technology</text>
   <text x="200" y="166" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#22d3ee">Data Analyst Intern</text>
@@ -21,7 +21,7 @@
 
   <text x="600" y="56" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#a855f7">2024</text>
   
-  <circle cx="600" cy="90" r="11" fill="#0b0f19" stroke="#a855f7" stroke-width="3"/>
+  <circle cx="600" cy="90" r="11" fill="#0f172a" stroke="#a855f7" stroke-width="3"/>
   <circle cx="600" cy="90" r="4.5" fill="#a855f7"/>
   <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f8fafc">Collins Aerospace (RTX)</text>
   <text x="600" y="166" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#a855f7">Software Engineer Intern</text>
@@ -30,7 +30,7 @@
 
   <text x="1000" y="56" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#f472b6">2025 – now</text>
   <circle cx="1000" cy="90" r="11" fill="none" stroke="#f472b6" stroke-width="2"><animate attributeName="r" values="11;24" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>
-  <circle cx="1000" cy="90" r="11" fill="#0b0f19" stroke="#f472b6" stroke-width="3"/>
+  <circle cx="1000" cy="90" r="11" fill="#0f172a" stroke="#f472b6" stroke-width="3"/>
   <circle cx="1000" cy="90" r="4.5" fill="#f472b6"/>
   <text x="1000" y="140" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f8fafc">KCIC</text>
   <text x="1000" y="166" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f472b6">Database Developer</text>

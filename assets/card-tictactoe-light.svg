@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250" role="img" aria-label="TicTacToe with AI: An opponent you can't beat, powered by the minimax algorithm.">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/></linearGradient>
+    <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.1"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect x="1" y="1" width="398" height="248" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="250" fill="#ffffff"/>
+    <rect width="400" height="250" fill="url(#g)"/>
+    <rect width="400" height="5" fill="url(#bar)"/>
+  </g>
+  <rect x="1" y="1" width="398" height="248" rx="16" fill="none" stroke="#d0d7de" stroke-width="2"/>
+  <text x="26" y="46" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12" letter-spacing="2" fill="#7c3aed">UNDERGRAD · JUNIOR YEAR</text>
+  <text x="374" y="48" text-anchor="end" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#7c3aed">↗</text>
+  <text x="26" y="80" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">TicTacToe with AI</text>
+  <text x="26" y="112" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">An opponent you can't beat, powered</text>
+  <text x="26" y="133" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#475569">by the minimax algorithm.</text>
+  <rect x="26" y="200" width="104" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.45"/><text x="78" y="218" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12.5" fill="#1e293b">JavaScript</text>
+  <rect x="138" y="200" width="54.8" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.45"/><text x="165.4" y="218" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12.5" fill="#1e293b">HTML</text>
+  <rect x="200.8" y="200" width="46.599999999999994" height="26" rx="13" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.45"/><text x="224.10000000000002" y="218" text-anchor="middle" font-family="'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="12.5" fill="#1e293b">CSS</text>
+</svg>

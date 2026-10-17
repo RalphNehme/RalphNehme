@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 52" width="168" height="52" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset="0.5" stop-color="#7c3aed" stop-opacity="0.12"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect x="2" y="2" width="164" height="48" rx="24"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="164" height="48" rx="24" fill="#ffffff" stroke="url(#b)" stroke-width="2"/>
+  <g clip-path="url(#c)">
+    <rect x="-80" y="0" width="60" height="52" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-80;-80;208" keyTimes="0;0.6;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="24" y="14" width="24" height="24" rx="5" fill="#0a66c2"/><text x="36" y="32" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#fff">in</text>
+  <text x="62" y="32" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#0f172a">LinkedIn</text>
+</svg>
